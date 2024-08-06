@@ -11,8 +11,8 @@ const Navbar = () => {
   return (
         <div className='bg-black h-[100px] max-w-full mx-auto flex justify-between items-center'>
 
-            <h1 className='text-3xl font-bold text-yellow-100 ml-4'>R. Andini</h1>
-            <ul className='hidden md:flex text-white'>
+            <h1 className='text-3xl font-bold text-yellow-100 ml-[80px]'>R. Andini</h1>
+            <ul className='hidden md:flex text-white mr-[100px]'>
             <li className='p-5'><a href="#about">About</a></li>
                 <li className='p-5'><a href="#skills">Skills</a></li>
                 <li className='p-5'><a href="#projects">Project</a></li>
