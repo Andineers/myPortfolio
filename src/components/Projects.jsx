@@ -3,9 +3,9 @@ import React from 'react'
 
 const Projects = () => {
   return (
-    <div className='max-w-[1200px] mx-auto p-5' id='projects'>
+    <div className=' mt-[100px] max-w-[1200px] mx-auto p-5 text-center' id='projects'>
       <div className='pb-8'>
-        <p className='text-4xl mb-3 font-bold primary-color'>Projects</p>
+        <p className=' text-4xl mb-[28px] font-bold primary-color'>Projects</p>
         <p className='text-gray-400'>Check out some of my recent projects</p>
       </div>
 

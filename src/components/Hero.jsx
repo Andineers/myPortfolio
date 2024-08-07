@@ -6,7 +6,7 @@ const Hero = () => {
   return (
     <div className='grid grid-cols-1 sm:grid-cols-3 gap-8 max-w-full md:h-[70vh] mx-auto py-8 bg-black'>
 
-      <div className='col-span-1 my-auto mx-auto w-[300px] h-auto lg:w-[300px]'>
+      <div className='col-span-1 my-auto mx-auto w-[3n00px] h-auto lg:w-[300px]'>
       <img src={heroimage} alt="hero image" />
       </div>
 
