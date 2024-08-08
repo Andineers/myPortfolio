@@ -9,8 +9,8 @@ const About = () => {
 
         <div className='mt-[90px] md:mt-0 ml-[200px] text-left flex'>
           <div className='my-auto mx-6'>
-            <h2 className='text-4xl font-bold mb-[40px] primary-color'>About Me</h2>
-            <p className='text-base lg:text-lg'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit nisi incidunt recusandae veniam quibusdam nostrum sint debitis a animi, ex eius? Perspiciatis modi a eaque! Mollitia eius labore facilis illum?</p>
+            <h2 className='text-4xl font-poppins font-bold mb-[40px] primary-color'>About Me</h2>
+            <p className='text-base lg:text-lg font-poppins'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit nisi incidunt recusandae veniam quibusdam nostrum sint debitis a animi, ex eius? Perspiciatis modi a eaque! Mollitia eius labore facilis illum?</p>
           </div>
         </div>
 

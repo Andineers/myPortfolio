@@ -5,11 +5,11 @@ import frontendImg from "../assets/img/frontendImg.png";
 
 const Skills = () => {
   return (
-    <section className="skills py-24 px-4 bg-black text-white" id="skills">
-      <h2 className="text-4xl font-bold ml-[700px] mb-14 primary-color">
+    <section className="skills py-24 px-4 bg-[#1A0529] text-white" id="skills">
+      <h2 className="text-4xl font-bold ml-[700px] mb-14 primary-color font-poppins">
         Skills
       </h2>
-      <p className="text-center text-xl mb-12 text-gray-400">
+      <p className="text-center text-xl mb-12 text-gray-400 font-poppins">
         What Can I Do Best?
       </p>
       <div className="flex flex-col md:flex-row justify-center items-center space-y-8 md:space-y-0 md:space-x-8">
@@ -18,7 +18,7 @@ const Skills = () => {
             <img
               src={uiDesigner}
               alt="uiDesigner Icon"
-              className="w-12 h-12 mx-auto mb-4 bg-white p-2 rounded-full"
+              className="w-12 h-12 mx-auto mb-4 bg-white font-poppins p-2 rounded-full"
             />
           }
           title="UI Designer"
@@ -29,7 +29,7 @@ const Skills = () => {
             <img
               src={frontendImg}
               alt="frontend Icon"
-              className="w-12 h-12 mx-auto mb-4 bg-white p-2 rounded-full"
+              className="w-12 font-poppins h-12 mx-auto mb-4 bg-white p-2 rounded-full"
             />
           }
           title="Frontend Developer"

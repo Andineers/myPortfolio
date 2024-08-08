@@ -17,31 +17,31 @@ const Tech = () => {
       <div className="grid grid-cols-6 gap-4 md:flex md:justify-between md:items-center">
         <div className="flex flex-col items-center m-4 sm:my-0 w-[20px] md:w-[40px]">
           <img src={html} alt="HTML" className="w-full h-auto" />
-          <p className="mt-2">HTML</p>
+          <p className="mt-2 font-poppins">HTML</p>
         </div>
         <div className="flex flex-col items-center m-4 sm:my-0 w-[20px] md:w-[40px]">
           <img src={css} alt="CSS" className="w-full h-auto" />
-          <p className="mt-2">CSS</p>
+          <p className="mt-2 font-poppins">CSS</p>
         </div>
         <div className="flex flex-col items-center m-4 sm:my-0 w-[20px] md:w-[40px]">
           <img src={javascript} alt="Javascript" className="w-full h-auto" />
-          <p className="mt-2">Javascript</p>
+          <p className="mt-2 font-poppins">Javascript</p>
         </div>
         <div className="flex flex-col items-center m-4 sm:my-0 w-[20px] md:w-[40px]">
           <img src={tailwind} alt="Tailwind" className="w-full h-auto" />
-          <p className="mt-2">Tailwind</p>
+          <p className="mt-2 font-poppins">Tailwind</p>
         </div>
         <div className="flex flex-col items-center m-4 sm:my-0 w-[20px] md:w-[40px]">
           <img src={react} alt="React" className="w-full h-auto" />
-          <p className="mt-2">React</p>
+          <p className="mt-2 font-poppins">React</p>
         </div>
         <div className="flex flex-col items-center m-4 sm:my-0 w-[20px] md:w-[40px]">
           <img src={figma} alt="Figma" className="w-full h-auto" />
-          <p className="mt-2">Figma</p>
+          <p className="mt-2 font-poppins">Figma</p>
         </div>
         <div className="flex flex-col items-center m-4 sm:my-0 w-[20px] md:w-[40px]">
           <img src={corelDraw} alt="Corel Draw" className="w-full h-auto" />
-          <p className="text-center">Corel Draw</p>
+          <p className="text-center font-poppins">Corel Draw</p>
         </div>
       </div>
     </LightningBorder>

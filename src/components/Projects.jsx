@@ -5,8 +5,8 @@ const Projects = () => {
   return (
     <div className=' mt-[100px] max-w-[1200px] mx-auto p-5 text-center' id='projects'>
       <div className='pb-8'>
-        <p className=' text-4xl mb-[28px] font-bold primary-color'>Projects</p>
-        <p className='text-gray-400'>Check out some of my recent projects</p>
+        <p className=' text-4xl mb-[28px] font-bold primary-color font-poppins'>Projects</p>
+        <p className='text-gray-400 font-poppins'>Check out some of my recent projects</p>
       </div>
 
       <div className='grid sm:grid-cols-2 md:grid-cols-3 gap-4'>
@@ -17,7 +17,7 @@ const Projects = () => {
           <span className='text-2xl font-bold text-white tracking-wider'></span>
           <div className='pt-8 text-center'>
             <a href="/">
-              <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Live</button>
+              <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg font-poppins'>Live</button>
             </a>
           </div>
           </div>
@@ -30,7 +30,7 @@ const Projects = () => {
           <span className='text-2xl font-bold text-white tracking-wider'></span>
           <div className='pt-8 text-center'>
             <a href="/">
-              <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Live</button>
+              <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg font-poppins'>Live</button>
             </a>
           </div>
           </div>
