@@ -22,7 +22,7 @@ const Skills = () => {
             />
           }
           title="UI Designer"
-          description="As a Frontend Developer, I work closely with UI/UX and backend developers to deliver an optimized user experience. I create responsive and engaging using HTML, CSS, and JavaScript, and use frontend frameworks such as React JS and Next JS."
+          description="lorem"
         />
         <SkillCard
           icon={
@@ -33,7 +33,7 @@ const Skills = () => {
             />
           }
           title="Frontend Developer"
-          description="As a Backend Developer, I master the Javascript programming language and understand popular backend frameworks such as Express.js or Nest JS. I can also use databases like MySQL, or MongoDB and have a strong understanding of RESTful API concepts."
+          description="lorem."
         />
       </div>
     </section>
